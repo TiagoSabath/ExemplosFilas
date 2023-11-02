@@ -1,0 +1,14 @@
+C:\Users\tiagu\OneDrive\Área de Trabalho\Projetos\C#\ExemplosFilas\bin\Debug\net7.0\ExemplosFilas.exe
+C:\Users\tiagu\OneDrive\Área de Trabalho\Projetos\C#\ExemplosFilas\bin\Debug\net7.0\ExemplosFilas.deps.json
+C:\Users\tiagu\OneDrive\Área de Trabalho\Projetos\C#\ExemplosFilas\bin\Debug\net7.0\ExemplosFilas.runtimeconfig.json
+C:\Users\tiagu\OneDrive\Área de Trabalho\Projetos\C#\ExemplosFilas\bin\Debug\net7.0\ExemplosFilas.dll
+C:\Users\tiagu\OneDrive\Área de Trabalho\Projetos\C#\ExemplosFilas\bin\Debug\net7.0\ExemplosFilas.pdb
+C:\Users\tiagu\OneDrive\Área de Trabalho\Projetos\C#\ExemplosFilas\obj\Debug\net7.0\ExemplosFilas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tiagu\OneDrive\Área de Trabalho\Projetos\C#\ExemplosFilas\obj\Debug\net7.0\ExemplosFilas.AssemblyInfoInputs.cache
+C:\Users\tiagu\OneDrive\Área de Trabalho\Projetos\C#\ExemplosFilas\obj\Debug\net7.0\ExemplosFilas.AssemblyInfo.cs
+C:\Users\tiagu\OneDrive\Área de Trabalho\Projetos\C#\ExemplosFilas\obj\Debug\net7.0\ExemplosFilas.csproj.CoreCompileInputs.cache
+C:\Users\tiagu\OneDrive\Área de Trabalho\Projetos\C#\ExemplosFilas\obj\Debug\net7.0\ExemplosFilas.dll
+C:\Users\tiagu\OneDrive\Área de Trabalho\Projetos\C#\ExemplosFilas\obj\Debug\net7.0\refint\ExemplosFilas.dll
+C:\Users\tiagu\OneDrive\Área de Trabalho\Projetos\C#\ExemplosFilas\obj\Debug\net7.0\ExemplosFilas.pdb
+C:\Users\tiagu\OneDrive\Área de Trabalho\Projetos\C#\ExemplosFilas\obj\Debug\net7.0\ExemplosFilas.genruntimeconfig.cache
+C:\Users\tiagu\OneDrive\Área de Trabalho\Projetos\C#\ExemplosFilas\obj\Debug\net7.0\ref\ExemplosFilas.dll
